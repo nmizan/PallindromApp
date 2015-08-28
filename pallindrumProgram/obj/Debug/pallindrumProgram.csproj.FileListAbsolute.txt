@@ -1,0 +1,8 @@
+E:\02.FTFL Training\Dot Net\ConsoleApp\pallindrumProgram\pallindrumProgram\bin\Debug\pallindrumProgram.exe.config
+E:\02.FTFL Training\Dot Net\ConsoleApp\pallindrumProgram\pallindrumProgram\bin\Debug\pallindrumProgram.exe
+E:\02.FTFL Training\Dot Net\ConsoleApp\pallindrumProgram\pallindrumProgram\bin\Debug\pallindrumProgram.pdb
+E:\02.FTFL Training\Dot Net\ConsoleApp\pallindrumProgram\pallindrumProgram\obj\Debug\pallindrumProgram.exe
+E:\02.FTFL Training\Dot Net\ConsoleApp\pallindrumProgram\pallindrumProgram\obj\Debug\pallindrumProgram.pdb
+E:\02.FTFL Training\Dot Net\ConsoleApplication\pallindrumProgram\pallindrumProgram\bin\Debug\pallindrumProgram.exe.config
+E:\02.FTFL Training\Dot Net\ConsoleApplication\pallindrumProgram\pallindrumProgram\obj\Debug\pallindrumProgram.exe
+E:\02.FTFL Training\Dot Net\ConsoleApplication\pallindrumProgram\pallindrumProgram\obj\Debug\pallindrumProgram.pdb
